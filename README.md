@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Moegamat Samsodien 👋
 
-<!--
-**Plum165/Plum165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Cape Town (UCT), Moshal Scholar, Software Engineering Intern, and Tutor. I enjoy building impactful technology across AI, fintech, full-stack development, cybersecurity, and data-driven systems.
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Educational and visualization tools for Computer Science
+- Full-stack software development at Kraftlink
+- Financial inclusion solutions using Interledger and USSD
+
+### 🛠️ Tools & Technologies
+
+**Languages:** Python, Java, JavaScript, TypeScript, SQL
+
+**Frontend:** React, HTML, CSS
+
+**Backend:** Node.js, Express
+
+**Databases:** MongoDB, MySQL
+
+**Dev Tools:** Git, GitHub, Docker
+
+**Other:** Interledger, TCP Sockets, OpenAI APIs, Data Visualization
+
+### 🌟 Featured Projects
+
+- **UAV Flight Path** — Visualization and analysis system for drone flight paths
+- **STA1000** — Educational statistics calculator and learning platform
+- **Offline Wallet System** — Financial inclusion through USSD and Interledger
+
+### 💭 Free Time
+
+When I'm away from the keyboard, you'll usually find me at archery practice, playing video games, or enjoying a game of chess.
+
+---
+
+*"Engineering the future, one project at a time."*
