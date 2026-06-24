@@ -34,4 +34,6 @@ When I'm away from the keyboard, you'll usually find me at archery practice, pla
 
 ---
 
-*"Engineering the future, one project at a time."*
+<img width="1400" height="350" alt="1764765425690" src="https://github.com/user-attachments/assets/0423d8e5-d8ae-462c-8d3c-9152d7ab94f3" />
+
+
