@@ -34,6 +34,7 @@ When I'm away from the keyboard, you'll usually find me at archery practice, pla
 
 ---
 
-<img width="1400" height="350" alt="1764765425690" src="https://github.com/user-attachments/assets/0423d8e5-d8ae-462c-8d3c-9152d7ab94f3" />
+<img width="1983" height="793" alt="a1ad1f34-dd11-4bba-af7e-2d9db3e6527f" src="https://github.com/user-attachments/assets/49664ea7-4ed5-4a26-ba62-ed2894f9acc0" />
+
 
 
