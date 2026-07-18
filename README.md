@@ -5,8 +5,8 @@ Computer Science student at the University of Cape Town (UCT), Moshal Scholar, S
 ### 🚀 Currently Working On
 
 - Educational and visualization tools for Computer Science
-- Full-stack software development at Kraftlink
-- Financial inclusion solutions using Interledger and USSD
+- Working on Zen-i
+- Financial inclusion solutions using Interledger
 
 ### 🛠️ Tools & Technologies
 
