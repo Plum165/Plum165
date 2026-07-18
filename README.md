@@ -30,7 +30,7 @@ Computer Science student at the University of Cape Town (UCT), Moshal Scholar, S
 
 ### 💭 Free Time
 
-When I'm away from the keyboard, you'll usually find me at archery practice, playing video games, or enjoying a game of chess.
+When I'm away from the projects and work, you'll usually find me at archery practice, playing video games, or enjoying a game of chess.
 
 ---
 
