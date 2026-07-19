@@ -7,6 +7,7 @@ Computer Science student at the University of Cape Town (UCT), Moshal Scholar, S
 - Educational and visualization tools for Computer Science
 - Working on Zen-i
 - Financial inclusion solutions using Interledger
+- Automarker for some projects
 
 ### 🛠️ Tools & Technologies
 
