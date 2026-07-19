@@ -1,6 +1,6 @@
 # Hi, I'm Moegamat Samsodien 👋
 
-Computer Science student at the University of Cape Town (UCT), Moshal Scholar, Software Engineering Intern, and Tutor. I enjoy building impactful technology across AI, fintech, full-stack development, cybersecurity, and data-driven systems.
+Computer Science student at the University of Cape Town (UCT), Moshal Scholar, and Tutor. I enjoy building impactful technology across AI, fintech, full-stack development, cybersecurity, and data-driven systems.
 
 ### 🚀 Currently Working On
 
