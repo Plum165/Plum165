@@ -121,10 +121,12 @@ Outside of university and development, you'll usually find me:
 
 </p>
 
-<h3>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" />
-  GitHub Stats
-</h3>
+<div align="center">
+  <h3>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" />
+    GitHub Stats
+  </h3>
+</div>
 
 
 
